@@ -1,14 +1,17 @@
-vim9script
+" Filetype
+syntax enable
 
-# Linhas
+colorscheme catppuccin_latte
+
+" Linhas
 set number
 set relativenumber
 
-# Pesquisa
+" Pesquisa
 set hlsearch
 set ignorecase
 
-# Tab
+" Tab
 set expandtab
 set autoindent
-set shiftwidth=4 # Quantidade de Espaços ao digitar <Tab>
+set shiftwidth=4 " Quantidade de Espaços ao digitar <Tab>
