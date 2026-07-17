@@ -15,3 +15,4 @@ set ignorecase
 set expandtab
 set autoindent
 set shiftwidth=4 " Quantidade de Espaços ao digitar <Tab>
+set tabstop=4
