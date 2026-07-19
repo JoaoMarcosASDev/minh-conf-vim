@@ -6,6 +6,10 @@ colorscheme catppuccin_latte
 " Mouse
 set mouse=a
 
+" Wild
+set wildoptions=pum " Pop-up Menu
+set wildignorecase  " Case insensitive
+
 " Linhas
 set number
 set relativenumber
