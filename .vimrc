@@ -3,6 +3,9 @@ syntax enable
 
 colorscheme catppuccin_latte
 
+" Mouse
+set mouse=a
+
 " Linhas
 set number
 set relativenumber
