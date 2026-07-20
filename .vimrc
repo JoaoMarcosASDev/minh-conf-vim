@@ -16,6 +16,7 @@ set relativenumber
 
 " Pesquisa
 set hlsearch
+set incsearch
 set ignorecase
 
 " Tab
