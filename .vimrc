@@ -1,5 +1,5 @@
-" Filetype
-syntax enable
+" FT-Plugin
+filetype plugin indent on
 
 colorscheme catppuccin_latte
 
@@ -7,6 +7,7 @@ colorscheme catppuccin_latte
 set mouse=a
 set laststatus=2
 set title
+syntax enable
 
 " Wild
 set wildoptions=pum " Pop-up Menu
