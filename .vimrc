@@ -3,8 +3,10 @@ syntax enable
 
 colorscheme catppuccin_latte
 
-" Mouse
+" Geral
 set mouse=a
+set laststatus=2
+set title
 
 " Wild
 set wildoptions=pum " Pop-up Menu
@@ -16,7 +18,7 @@ set relativenumber
 
 " Pesquisa
 set hlsearch
-set incsearch
+set incsearch " Mostra o caractere(s) pesquisado(s)
 set ignorecase
 
 " Tab
